@@ -1,0 +1,22 @@
+.image-wrapper {
+    position: relative;
+    width: 100%;
+    /* overflow: hidden; */
+}
+
+.scroll-image {
+    width: 100%;
+    transition: transform 0.2s ease-out;
+}
+
+.image-wrapper img:nth-child(1) {
+    width: 100%;
+}
+
+.image-wrapper img:nth-child(3) {
+    width: 100%;
+}
+
+.image-wrapper img:nth-child(2) {
+    width: 80%;
+}

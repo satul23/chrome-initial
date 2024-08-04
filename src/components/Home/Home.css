@@ -1,0 +1,100 @@
+.Home-section{
+    position: relative;
+}
+
+.logo-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 20%;
+    padding-top: 3%;
+}
+
+.logoimg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: small;
+    width: 5%;
+}
+
+.Text-div{
+
+}
+
+.test-div-master{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+    margin: 0;
+}
+
+.home-h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+    margin: 0;
+}
+
+.main-home-nav{
+    display: flex;
+    width: 100%;
+    padding-top: 3%;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 20px;
+    z-index: 1000;
+}
+
+.home-nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35%;
+    border-radius: 30px;
+    background-color: oldlace;
+}
+
+.home-ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    padding: 15px;
+    gap: 8%;
+    width: 100%;
+    margin: 0;
+}
+
+.home-li{
+    list-style-type: none;
+    color: gray;
+}
+
+.home-nav-a{
+    text-decoration: none;
+    color: gray;
+}
+
+.fast-header{
+    position: sticky;
+}
+
+
+.h5-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2%;
+}
